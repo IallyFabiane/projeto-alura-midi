@@ -1,6 +1,6 @@
 # <h1>Alura Midi</h1>
 
-<h2>Project deployed on: </h2>
+<h2>Project deployed on: https://bright-puffpuff-4fa766.netlify.app/</h2>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
